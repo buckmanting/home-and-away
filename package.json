@@ -1,0 +1,11 @@
+{
+  "name": "home-and-away",
+  "version": "1.0.0",
+  "description": "top X number of home and away scorers",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "springerBuck",
+  "license": "MIT"
+}
